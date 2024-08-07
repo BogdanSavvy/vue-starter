@@ -35,7 +35,12 @@ const listItems = computed(() => {
             This template is designed to simplify the setup and launch process for
             projects while providing the flexibility and scalability needed for further
             development. You can learn more on
-            <a class="text-green-500" href="">GitHub</a>.
+            <a
+               class="text-green-500"
+               href="https://github.com/BogdanSavvy/vue-starter.git"
+               target="_blank"
+               >GitHub</a
+            >.
          </p>
          <p>Happy coding :)</p>
          <button
